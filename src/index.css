@@ -1,0 +1,7 @@
+@import './styles/global.css';
+@import './styles/components.css';
+@import './styles/layout.css';
+
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; background: #050a14; }
+#root { min-height: 100vh; }

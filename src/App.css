@@ -1,0 +1,13 @@
+/* Arquivo legado removido. A lógica e o estilo do app agora ficam em componentes e em src/styles/*.css */
+
+.app-shell {
+  min-height: 100vh;
+  background: #050a14;
+}
+
+button,
+a,
+input,
+select {
+  font: inherit;
+}
